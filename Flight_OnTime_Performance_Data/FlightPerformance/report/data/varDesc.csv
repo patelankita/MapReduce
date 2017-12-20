@@ -1,0 +1,7 @@
+No.,Variable,Description
+1,airportFlightCount,"Holds Global flight counts for airport: k->aaCode, v->Count"
+2,airlineFlightCount,"Holds Global flight counts for airline: k->aaCode, v->Count"
+3,airportFlightCountSorted,Local Map to hold sorted count for airport
+4,airlineFlightCountSorted,Local Map to hold sorted count for airline
+5,reducedValueMap,"Local Map to hold reduced records for each <YEAR,MONTH,RECORD_TYPE,CODE>"
+6,mostBusyMap,Local Map to hold List of Most Busy Airport/Airline
