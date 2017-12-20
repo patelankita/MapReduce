@@ -9,7 +9,7 @@ import java.util.Calendar;
 import java.util.HashMap;
 
 /**
- * @author Ushang Thakker
+ * @author Ankita
  */
 public class FlightPrediction {
 

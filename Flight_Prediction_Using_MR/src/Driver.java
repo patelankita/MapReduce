@@ -2,7 +2,7 @@ import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.mapreduce.Job;
 
 /**
- * @author Ushang Thakker
+ * @author Ankita
  */
 public class Driver {
 

@@ -6,7 +6,7 @@ import java.io.IOException;
 
 /**
  * This class is a custom Writable class to store flights and normalized delay for a month
- * @author Ankita,Ushang,Xia
+ * @author Ankita
  */
 public class FlightDataWritable implements WritableComparable {
 

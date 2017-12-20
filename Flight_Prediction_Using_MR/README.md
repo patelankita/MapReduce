@@ -1,4 +1,4 @@
-# Assignment 5: Flight Data Prediction
+# Flight Prediction
 
 **Prerequisite: Set HADOOP HOME in `Makefile`**
 
